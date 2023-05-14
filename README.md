@@ -1,1 +1,1 @@
-![](cyberglot.svg)
+![](cyberglot.PNG)
